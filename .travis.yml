@@ -2,3 +2,5 @@ language: bash
 
 script:
     - bash install.sh
+
+sudo: required
